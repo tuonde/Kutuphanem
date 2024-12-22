@@ -1,0 +1,10 @@
+C:\Users\user\OneDrive - uludag.edu.tr\Masaüstü\Kitplık_Projesi\bin\Debug\Kitplık_Projesi.exe.config
+C:\Users\user\OneDrive - uludag.edu.tr\Masaüstü\Kitplık_Projesi\bin\Debug\Kitplık_Projesi.exe
+C:\Users\user\OneDrive - uludag.edu.tr\Masaüstü\Kitplık_Projesi\bin\Debug\Kitplık_Projesi.pdb
+C:\Users\user\OneDrive - uludag.edu.tr\Masaüstü\Kitplık_Projesi\obj\Debug\Kitplık_Projesi.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - uludag.edu.tr\Masaüstü\Kitplık_Projesi\obj\Debug\Kitplık_Projesi.Form1.resources
+C:\Users\user\OneDrive - uludag.edu.tr\Masaüstü\Kitplık_Projesi\obj\Debug\Kitplık_Projesi.Properties.Resources.resources
+C:\Users\user\OneDrive - uludag.edu.tr\Masaüstü\Kitplık_Projesi\obj\Debug\Kitplık_Projesi.csproj.GenerateResource.cache
+C:\Users\user\OneDrive - uludag.edu.tr\Masaüstü\Kitplık_Projesi\obj\Debug\Kitplık_Projesi.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - uludag.edu.tr\Masaüstü\Kitplık_Projesi\obj\Debug\Kitplık_Projesi.exe
+C:\Users\user\OneDrive - uludag.edu.tr\Masaüstü\Kitplık_Projesi\obj\Debug\Kitplık_Projesi.pdb
